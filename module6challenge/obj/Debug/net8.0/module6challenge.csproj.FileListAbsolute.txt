@@ -1,0 +1,15 @@
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\bin\Debug\net8.0\module6challenge.exe
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\bin\Debug\net8.0\module6challenge.deps.json
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\bin\Debug\net8.0\module6challenge.runtimeconfig.json
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\bin\Debug\net8.0\module6challenge.dll
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\bin\Debug\net8.0\module6challenge.pdb
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.AssemblyInfo.cs
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.sourcelink.json
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.dll
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\refint\module6challenge.dll
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.pdb
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\module6challenge.genruntimeconfig.cache
+C:\Users\thanh\OneDrive - MNSCU\ITEC2505\module6challenge-1\module6challenge\obj\Debug\net8.0\ref\module6challenge.dll
