@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thanh\\OneDrive - MNSCU\\ITEC2505\\module6challenge\\module6challenge\\module6challenge.csproj",
+      "projectUniqueName": "C:\\Users\\thanh\\OneDrive - MNSCU\\ITEC2505\\module6challenge-1\\module6challenge\\module6challenge.csproj",
       "projectName": "module6challenge",
-      "projectPath": "C:\\Users\\thanh\\OneDrive - MNSCU\\ITEC2505\\module6challenge\\module6challenge\\module6challenge.csproj",
+      "projectPath": "C:\\Users\\thanh\\OneDrive - MNSCU\\ITEC2505\\module6challenge-1\\module6challenge\\module6challenge.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thanh\\OneDrive - MNSCU\\ITEC2505\\module6challenge\\module6challenge\\obj\\",
+      "outputPath": "C:\\Users\\thanh\\OneDrive - MNSCU\\ITEC2505\\module6challenge-1\\module6challenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
